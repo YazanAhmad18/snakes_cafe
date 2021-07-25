@@ -59,3 +59,6 @@ def ordering(menu_num_order,order,menu_food):
 
 ordering(menu_num_order,order,menu_food)
 
+
+# i did it with the stretch goal
+
